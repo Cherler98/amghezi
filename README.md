@@ -1,2 +1,2 @@
 # amghezi
-Just a test project to tutorial Git.
+Ye toup daram ghel ghely surkho shefido abye
